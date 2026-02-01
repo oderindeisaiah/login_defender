@@ -1,0 +1,10 @@
+# Ignore the user database
+users.db
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
